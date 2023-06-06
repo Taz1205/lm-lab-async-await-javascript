@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const jsonTypicode = "https://jsonplaceholder.typicode.com/todos/1";
+const jsonTypicode = "https://acnhapi.com/v1/fossils/";
 
 const fetchData = async (apiEndPoint) => {
   try {
